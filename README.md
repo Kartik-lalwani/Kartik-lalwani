@@ -8,7 +8,7 @@
 <br/>
 
 ### 👨‍💻 A Little About Me
-- 🌍 I am based in **Kanpur, Uttar Pradesh**.
+- 🌍 I am from  **Kanpur, Uttar Pradesh**.
 - 🎓 Commerce graduate currently pursuing my **PGDCA** to further deepen my technical data expertise.
 - 🏅 Certified in **Google Data Analytics** and **IBM SQL**, with a strong foundation in database management.
 - 💼 I am actively seeking entry-level opportunities as a **Data Analyst** or **Business Analyst**.
