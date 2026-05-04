@@ -1,10 +1,9 @@
-<div align="center">
-  <!-- This is where your GIF will go! Make sure the filename matches exactly what you upload -->
-  <img src="coding_animation.gif" alt="Data Analyst Working" width="350" />
+<img align="right" width="350" src="https://github.com/user-attachments/assets/9f7ae751-1b4b-4d68-94d1-f906cd3ee161" alt="gif for git" />
 
+<br><br>
   <h1>Hi there, I'm Kartik Lalwani 👋</h1>
   <h3>Data Analyst | Transforming Raw Data into Strategic Business Insights</h3>
-</div>
+
 
 <br/>
 
