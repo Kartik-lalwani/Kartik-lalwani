@@ -35,10 +35,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kartik-lalwani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:kartiklalwani65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
